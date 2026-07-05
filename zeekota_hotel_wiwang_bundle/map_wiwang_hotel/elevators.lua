@@ -1,0 +1,3 @@
+-- Elevator prompts and floor selection are handled by zeekota_hotel.
+-- This file is intentionally inert so the map keeps its IPL behavior without
+-- registering the original elevator points or context menu.

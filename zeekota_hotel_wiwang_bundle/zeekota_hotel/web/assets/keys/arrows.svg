@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 138" role="img" aria-label="Arrow keys" shape-rendering="geometricPrecision">
+  <defs>
+    <linearGradient id="face" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset=".62" stop-color="#e8ebf1"/>
+      <stop offset="1" stop-color="#c2c8d2"/>
+    </linearGradient>
+  </defs>
+  <g stroke="#ffffff" stroke-opacity=".74" stroke-width="2">
+    <rect x="82" y="8" width="56" height="52" rx="10" fill="url(#face)"/>
+    <rect x="20" y="72" width="56" height="52" rx="10" fill="url(#face)"/>
+    <rect x="82" y="72" width="56" height="52" rx="10" fill="url(#face)"/>
+    <rect x="144" y="72" width="56" height="52" rx="10" fill="url(#face)"/>
+  </g>
+  <path d="M110 21 94 42h32L110 21Zm0 89 16-21H94l16 21ZM36 98l21 16V82L36 98Zm148 0-21-16v32l21-16Z" fill="#10131a"/>
+</svg>

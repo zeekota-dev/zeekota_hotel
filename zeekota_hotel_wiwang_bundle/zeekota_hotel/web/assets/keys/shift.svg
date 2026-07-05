@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270 120" role="img" aria-label="Shift key" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+  <defs>
+    <linearGradient id="face" x1="0" x2="0" y1="8" y2="96" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset=".62" stop-color="#e8ebf1"/>
+      <stop offset="1" stop-color="#c2c8d2"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#9da4af"/>
+      <stop offset="1" stop-color="#707782"/>
+    </linearGradient>
+  </defs>
+  <rect x="9" y="13" width="252" height="88" rx="18" fill="url(#edge)"/>
+  <rect x="9" y="8" width="252" height="86" rx="18" fill="url(#face)" stroke="#ffffff" stroke-opacity=".78" stroke-width="2"/>
+  <path d="m56 66 28-35 28 35H94v18H74V66H56Z" fill="#10131a"/>
+  <text x="178" y="69" fill="#10131a" font-family="Arial, Helvetica, sans-serif" font-size="37" font-weight="900" text-anchor="middle">SHIFT</text>
+</svg>

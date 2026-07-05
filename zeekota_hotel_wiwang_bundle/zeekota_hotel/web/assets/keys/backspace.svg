@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 120" role="img" aria-label="Backspace key" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+  <defs>
+    <linearGradient id="face" x1="0" x2="0" y1="8" y2="96" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset=".62" stop-color="#e8ebf1"/>
+      <stop offset="1" stop-color="#c2c8d2"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#9da4af"/>
+      <stop offset="1" stop-color="#707782"/>
+    </linearGradient>
+  </defs>
+  <path d="M58 13h219c8 0 15 7 15 15v58c0 8-7 15-15 15H58L11 57 58 13Z" fill="url(#edge)"/>
+  <path d="M60 8h216c8 0 15 7 15 15v56c0 8-7 15-15 15H60L18 51 60 8Z" fill="url(#face)" stroke="#ffffff" stroke-opacity=".78" stroke-width="2"/>
+  <path d="M84 52h72m-29-25-29 25 29 25" fill="none" stroke="#10131a" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="220" y="66" fill="#10131a" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="900" text-anchor="middle">BACK</text>
+</svg>
